@@ -1,0 +1,38 @@
+.new-post {
+  background-color: white;
+  padding: 1rem;
+  margin: 2rem auto;
+  width: 50rem;
+  max-width: 95%;
+  border-radius: 12px;
+  text-align: center;
+  box-shadow: 0 1px 8px rgba(0, 0, 0, 0.25);
+}
+
+.new-post button {
+  font: inherit;
+  cursor: pointer;
+  padding: 1rem 2rem;
+  border: 1px solid #3F51B5;
+  background-color: #3F51B5;
+  color: white;
+  border-radius: 12px;
+  margin-right: 1rem;
+}
+
+.new-post button:hover,
+.new-post button:active {
+  background-color: #3F51B5;
+  border-color: #3F51B5;
+}
+
+.new-post button.alternative {
+  color: #3F51B5;
+  border-color: transparent;
+  background-color: transparent;
+}
+
+.new-post button.alternative:hover,
+.new-post button.alternative:active {
+  background-color: #3F51B5;
+}
