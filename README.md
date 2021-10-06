@@ -1,8 +1,4 @@
-<<<<<<< HEAD
-# Crud App
-=======
 # CRUD App
->>>>>>> a7dd863ee937e39cf2af773c5493c05216da3797
 
 A crud app in react js without backend.
 
