@@ -1,4 +1,4 @@
-# Crud App
+# CRUD App
 
 A crud app in react js without backend.
 
